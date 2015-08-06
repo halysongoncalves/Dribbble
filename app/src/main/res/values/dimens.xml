@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_xLarge">26sp</dimen>
+    <dimen name="text_size_big">30sp</dimen>
+
+    <!-- Spacings -->
+    <dimen name="spacigns_micro">2dp</dimen>
+    <dimen name="spacigns_small">4dp</dimen>
+    <dimen name="spacigns_template">8dp</dimen>
+    <dimen name="spacigns_middle">12dp</dimen>
+    <dimen name="spacigns_large">16dp</dimen>
+    <dimen name="spacigns_xlarge">20dp</dimen>
+    <dimen name="spacigns_big">24dp</dimen>
+    <dimen name="spacigns_xBig">28dp</dimen>
+
+    <!-- Navigation Drawer -->
+    <dimen name="navigation_drawer_width">300dp</dimen>
+
+    <!-- Activity Details -->
+    <dimen name="activity_details_height_image_view_cover">320dp</dimen>
+    <dimen name="activity_details_height_content_title">96dp</dimen>
+    <dimen name="activity_details_height_image_view_user">60dp</dimen>
+
+    <!-- Activity About -->
+    <dimen name="activity_about_height_image_view_user">100dp</dimen>
+
+</resources>

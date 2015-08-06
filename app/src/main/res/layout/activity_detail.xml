@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_window_background">
+
+    <br.goncalves.dribbble.views.customview.ObservableScrollView
+        android:id="@+id/activity_movie_detail_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/activity_detail_cover"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/activity_details_height_image_view_cover"
+                android:background="@drawable/placeholder_shot_details"
+                android:scaleType="fitXY" />
+
+            <RelativeLayout
+                android:id="@+id/activity_detail_content_title"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/activity_details_height_content_title"
+                android:paddingLeft="@dimen/spacigns_large"
+                android:background="@color/color_gray_dark_very"
+                android:layout_below="@id/activity_detail_cover">
+
+                <br.goncalves.dribbble.views.customview.RoundendImageView
+                    android:id="@+id/activity_about_roudend_image_view_avatar"
+                    android:layout_width="@dimen/activity_details_height_image_view_user"
+                    android:layout_height="@dimen/activity_details_height_image_view_user"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/placeholder_people"
+                    app:border="true"
+                    app:border_color="@color/color_gray_light"
+                    app:border_width="@dimen/spacigns_small"
+                    app:shadow="true" />
+
+                <br.goncalves.dribbble.views.customview.LobsterTextView
+                    android:id="@+id/activity_about_text_view_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/spacigns_large"
+                    android:layout_marginStart="@dimen/spacigns_large"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/activity_about_roudend_image_view_avatar"
+                    android:layout_toEndOf="@+id/activity_about_roudend_image_view_avatar"
+                    android:textSize="@dimen/text_size_xLarge"
+                    android:textColor="@android:color/white"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:elevation="@dimen/spacigns_small"
+                    tools:text="An awesome title" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/activity_detail_book_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/spacigns_large"
+                android:paddingRight="@dimen/spacigns_large"
+                android:paddingBottom="@dimen/spacigns_large"
+                android:paddingTop="@dimen/spacigns_large"
+                android:layout_below="@id/activity_detail_content_title">
+
+                <TextView
+                    android:id="@+id/activity_detail_text_view_homepage"
+                    android:layout_width="match_parent"
+                    android:drawableLeft="@drawable/ic_domain"
+                    android:drawableStart="@drawable/ic_domain"
+                    android:drawablePadding="@dimen/spacigns_large"
+                    android:layout_height="wrap_content"
+                    tools:text="http://awesome.title.com"
+                    android:visibility="gone"
+                    style="@style/DetailField" />
+
+                <TextView
+                    android:id="@+id/activity_detail_text_view_company"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:visibility="visible"
+                    android:drawableLeft="@drawable/ic_world"
+                    android:drawableStart="@drawable/ic_world"
+                    android:visibility="gone"
+                    android:drawablePadding="@dimen/spacigns_large"
+                    style="@style/HeaderTextView"
+                    tools:text="Warner Bros, Paramount Pictures" />
+
+
+                <TextView
+                    android:id="@+id/activity_detail_text_view_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    style="@style/HeaderTextView"
+                    android:layout_marginTop="@dimen/spacigns_large"
+                    android:visibility="gone"
+                    android:textColor="@color/color_accent"
+                    android:text="@string/activity_details_label_description" />
+
+                <TextView
+                    android:id="@+id/activity_detail_text_view_description_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:lineSpacingExtra="6dp"
+                    android:visibility="gone"
+                    android:textColor="#FFF"
+                    android:text="@string/activity_details_lorem" />
+            </LinearLayout>
+        </RelativeLayout>
+    </br.goncalves.dribbble.views.customview.ObservableScrollView>
+
+    <include
+        layout="@layout/view_toolbar"
+        android:id="@+id/activity_details_toolbar" />
+
+    <ProgressBar
+        android:id="@+id/activity_details_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/spacigns_large"
+        android:visibility="visible" />
+</FrameLayout>

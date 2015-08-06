@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Dribbble</string>
+
+    <!-- Activity Details -->
+    <string name="activity_details">Details</string>
+    <string name="activity_details_share_title">Share</string>
+    <string name="activity_details_share_message">Hello, Im sharing this shot. I found quite interesting and creative!</string>
+    <string name="activity_details_share">Share</string>
+    <string name="activity_details_label_description">Description</string>
+    <string name="activity_details_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mollis nunc massa, quis suscipit orci mattis a. Nulla rutrum fringilla finibus. Morbi ac dui in lacus finibus hendrerit. Ut vestibulum. Nulla rutrum fringilla finibus. Morbi ac dui in lacus finibus hendrerit. Ut vestibulum. Nulla rutrum fringilla finibus. Morbi ac dui in lacus finibus hendrerit. Ut vestibulum, Nulla rutrum fringilla finibus. Morbi ac dui in lacus finibus hendrerit. Ut vestibulum, Morbi ac dui in lacus finibus hendrerit. Ut vestibulum, Nulla rutrum fringilla finibus. Morbi ac dui in lacus finibus hendrerit. Ut vestibulum, Ut vestibulum, Nulla rutrum fringilla finibus. Morbi ac dui in lacus finibus hendrerit. Ut vestibulum, Morbi ac dui in lacus finibus hendrerit. Ut vestibulum, Nulla rutrum fringilla finibus. Morbi ac dui in lacus finibus hendrerit. Ut vestibulum</string>
+    <string name="activity_detail_label_tagline">Tagline</string>
+
+    <!-- Fragment Home -->
+    <string name="fragment_home_dialog_button_error_positive">Tentar novamente</string>
+    <string name="fragment_home_dialog_text_title_error">Erro</string>
+    <string name="fragment_home_dialog_text_messae_connection_error">Ops! Não foi possível encontrar internet. Por favor verifique sua conexão.</string>
+    <string name="fragment_home_dialog_text_messae_http_error">Ops! Ocorreu um problema em algum de nossos servidores. Tente novamente mais tarde!</string>
+    <string name="fragment_home_dialog_text_messae_generic_error">Ops! Ocorreu um erro. Tente novamente mais tarde.</string>
+
+    <!-- Fragment Drawer Menu -->
+    <string name="fragment_drawer_menu_text_view_about">Sobre</string>
+
+
+</resources>

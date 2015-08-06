@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-97325cc1093b0ff9d76ce735ed7263b6bc9deefe.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-b1f067a1003fd43f0b93a71bc4c343bc3c7987e8.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.8.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="332c3fb3a17fa7a66f84c701047aac964653fdf6">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-175ea3830c3e630cf49aa1ee357d41ed5f6dc906.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.1.0/6025b7df8a6a4193138723ef120e7228b6a97024/okhttp-urlconnection-2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6025b7df8a6a4193138723ef120e7228b6a97024">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.1.0-5d75bebadca7afacfc0f431f761e17b7065d6844.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.1.0/6025b7df8a6a4193138723ef120e7228b6a97024/okhttp-urlconnection-2.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6025b7df8a6a4193138723ef120e7228b6a97024">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.1.0-5d75bebadca7afacfc0f431f761e17b7065d6844.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-c09e804dcf8e7acdd51c00f74f46de9f51b52ccc.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/palette-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b65c2fede61220ed2b6a063f11ca13160910089e">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-335578af4944f56124d3b5f2f5fe0f275adb78af.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-a0ad15fd8208f8c59484dfef1782f61c3d72f35d.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-81bc4e79a28355e7544d0e0568e63b62484def17.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/otto-1.3.5-581c0f71a130d2afb71e23fc2c6b0374e1584bf8.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-9523e08aef9b4d3502b94647bd3255b590613153.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/okio-1.4.0-8eade95a9fbba45f865e6268678e1afb351b7a52.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-9523e08aef9b4d3502b94647bd3255b590613153.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/gson-2.3.1-5c4c992a227b08119438651c7836b564cc15ce8f.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-b1f067a1003fd43f0b93a71bc4c343bc3c7987e8.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/otto-1.3.5-581c0f71a130d2afb71e23fc2c6b0374e1584bf8.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-6ccdebe879e1c7a69469a3689f2d84987c860833.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-54f986ccd527b653b1e318aed3d748123f91ff09.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-c09e804dcf8e7acdd51c00f74f46de9f51b52ccc.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0e1b28da86ecad3884a1e69323090cbfd1842d8c.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/model/build/libs/model.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4eeea6b48273b99efcf997b49f4ce23a6f187bec">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/model-aa4ca1786934d7505152566d6c4edb063ff82dbf.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-54f986ccd527b653b1e318aed3d748123f91ff09.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0e1b28da86ecad3884a1e69323090cbfd1842d8c.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/palette-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b65c2fede61220ed2b6a063f11ca13160910089e">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-335578af4944f56124d3b5f2f5fe0f275adb78af.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/common/build/libs/common.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0bec20398f1760db700d8012637ee584138b75a8">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/common-48b498f3806709e59fdc68c4027cec7b63a618a0.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/model/build/libs/model.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="21e24e6de9c517b6e17e667c0bc5baf8efdcaa03">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/model-aa4ca1786934d7505152566d6c4edb063ff82dbf.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-a0ad15fd8208f8c59484dfef1782f61c3d72f35d.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/domain/build/libs/domain.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="72f9c5876052b7caea1a301bc3b2488ded17b6b1">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/domain-4a0a664e51bdaeac0005f52cfbc933c6e443e6c2.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-6ccdebe879e1c7a69469a3689f2d84987c860833.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.8.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="332c3fb3a17fa7a66f84c701047aac964653fdf6">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-175ea3830c3e630cf49aa1ee357d41ed5f6dc906.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-0f10b971025dcd2b4307ebe9488771513e06e1e2.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-ca059897ab35b357e9f4c8f12222e285ab289bf9.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/common/build/libs/common.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8d5616628d7a1cf42443b2961b6b4217a6d6cb5">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/common-48b498f3806709e59fdc68c4027cec7b63a618a0.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/gson-2.3.1-5c4c992a227b08119438651c7836b564cc15ce8f.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-747b463365d961d5187ac3ba6131b843865666ed.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-97325cc1093b0ff9d76ce735ed7263b6bc9deefe.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-0f10b971025dcd2b4307ebe9488771513e06e1e2.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-747b463365d961d5187ac3ba6131b843865666ed.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/domain/build/libs/domain.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8cb5ae409774fd6ec98719e0eaf1f2f50227010a">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/domain-4a0a664e51bdaeac0005f52cfbc933c6e443e6c2.jar" />
+    </item>
+    <item
+        jar="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/HalysonLima/Documents/Projects/Android Studio/UFV2015/app/build/intermediates/pre-dexed/debug/classes-ca059897ab35b357e9f4c8f12222e285ab289bf9.jar" />
+    </item>
+
+</items>

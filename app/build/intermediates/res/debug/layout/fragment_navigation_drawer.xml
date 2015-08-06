@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_gray_dark_very"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@drawable/placeholder_header"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/spacigns_large"
+        android:orientation="horizontal">
+
+
+        <br.goncalves.dribbble.views.customview.RoundendImageView
+            android:id="@+id/fragment_drawer_menu_roudend_image_view"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/placeholder_people"
+            app:border="true"
+            app:border_color="@color/color_gray_light"
+            app:border_width="@dimen/spacigns_small"
+            app:shadow="true" />
+
+        <br.goncalves.dribbble.views.customview.LobsterTextView
+            android:id="@+id/fragment_drawer_menu_text_view_name"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:layout_marginLeft="@dimen/spacigns_large"
+            android:layout_marginStart="@dimen/spacigns_large"
+            tools:text="Concrete"
+            android:textSize="@dimen/text_size_medium"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/fragment_drawer_menu_text_view_about"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:drawableLeft="@drawable/ic_person"
+        android:drawableStart="@drawable/ic_person"
+        android:drawablePadding="@dimen/spacigns_large"
+        android:paddingLeft="@dimen/spacigns_large"
+        android:layout_marginTop="@dimen/spacigns_template"
+        android:gravity="center_vertical"
+        android:text="@string/fragment_drawer_menu_text_view_about"
+        android:textColor="@android:color/white" />
+
+
+</LinearLayout>
+<!-- From: file:/Users/HalysonLima/Documents/Projects/Android%20Studio/UFV2015/app/src/main/res/layout/fragment_navigation_drawer.xml -->

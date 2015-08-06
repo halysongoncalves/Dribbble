@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_details_action_share"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/activity_details_share" />
+
+</menu><!-- From: file:/Users/HalysonLima/Documents/Projects/Android%20Studio/UFV2015/app/src/main/res/menu/details.xml -->

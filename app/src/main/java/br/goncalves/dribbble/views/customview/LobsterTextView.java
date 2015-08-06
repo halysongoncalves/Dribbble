@@ -1,0 +1,35 @@
+package br.goncalves.dribbble.views.customview;
+
+import android.content.Context;
+import android.graphics.Typeface;
+import android.util.AttributeSet;
+import android.widget.TextView;
+
+public class LobsterTextView extends TextView {
+    public LobsterTextView(Context context) {
+        super(context);
+
+        if (!isInEditMode())
+            init(context);
+    }
+
+    public LobsterTextView(Context context, AttributeSet attrs) {
+        super(context, attrs);
+
+        if (!isInEditMode())
+            init(context);
+    }
+
+    public LobsterTextView(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
+
+        if (!isInEditMode())
+            init(context);
+
+    }
+
+    private void init(Context context) {
+        Typeface typeface = Typeface.createFromAsset(context.getAssets(), "Lobster-Regular.ttf");
+        this.setTypeface(typeface);
+    }
+}

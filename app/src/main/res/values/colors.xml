@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Pallete Colors -->
+    <color name="color_primary">#EA4C89</color>
+    <color name="color_primary_dark">#BB3C6D</color>
+    <color name="color_accent">#E91C62</color>
+    <color name="color_navigation_bar">#E91C62</color>
+    <color name="color_window_background">#D1D1D1</color>
+    <color name="color_gray_dark">#E0E0E0</color>
+    <color name="color_gray_dark_very">#323232</color>
+    <color name="color_gray_light">#eeeeee</color>
+
+
+</resources>

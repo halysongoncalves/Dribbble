@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "br.goncalves.dribbble"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0.0"
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("${store_file_keystore_release_dribbble}")
+            storePassword "${store_password_release_dribbble}"
+            keyAlias "${key_alias_release_dribbble}"
+            keyPassword "${key_password_release_dribbble}"
+        }
+    }
+
+    buildTypes {
+        release {
+            zipAlignEnabled true
+            minifyEnabled false
+            shrinkResources false
+            debuggable false
+            proguardFiles 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            minifyEnabled false
+            debuggable true
+            proguardFiles 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':domain')
+
+    // Google libraries
+    compile 'com.android.support:appcompat-v7:22.0.0'
+    compile 'com.android.support:recyclerview-v7:21.0.3'
+    compile 'com.android.support:palette-v7:21.0.0'
+    compile 'com.android.support:cardview-v7:22.0.0'
+    compile 'com.android.support:support-v13:21.0.3'
+    compile 'com.android.support:support-v4:22.0.0'
+
+    // Square libraries
+    compile 'com.squareup.picasso:picasso:2.4.0'
+    compile 'com.jakewharton:butterknife:6.0.0'
+
+    //View
+    compile 'com.afollestad:material-dialogs:0.7.8.1'
+}
